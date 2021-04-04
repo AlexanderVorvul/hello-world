@@ -28,7 +28,7 @@ Rensponsabilities: | Software Development; Postproduction Software Development; 
 Technology used: | **Programming Languages** – Java, LAD, FBD, STL; **RDBMs:** Oracle, MS SQL Server, MySQL; **SCADAs** - Wonderware InTouch, Simatic WinCC,  DeltaV; **PLCs** – Siemens, Omron, Mitsubishi, Owen.
 Achievements: |  Successful accomplishment of two modernization projects (hi-level visualization using InTouch) for water cooling towers. 
 
-Grodno State Polytechnic College | 
+Grodno State Polytechnic College |  
 ------------ | -------------
 01.2014-07.2014 | Software Engineer
 Rensponsabilities: | Website maintenance; IT Support; Computer network administration
