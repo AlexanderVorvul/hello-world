@@ -20,5 +20,6 @@ Building Tools: | Maven, Make
 Defect Tracking: | JIRA, Bugzilla
 Design: | Corel Draw, Macromedia DreamWeaver, Adobe Photoshop
 
+#### Career History
+**JSC “Grodno Azot”** *Highly automated petrochemical company with customers all around the globe*
 
- 
