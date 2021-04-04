@@ -5,14 +5,14 @@ E-mail: alexander.vorvul@gmail.com
 
 Analytical mind, I am able to work wise and hard. Ready to work in a team and individually.
 
-Skills | Summary
+Skills Summary | - 
 ------------ | -------------
 **Programming Languages:** | Java, Assembler (x86), AutoLISP, C#, C/C++, LAD, FBD, STL, Object Pascal, Prolog, Visual Basic, SQL, T-SQL
 **Internet technologies:** | HTML, Java Applets, Java Server Faces (JSF), Java Server Pages (JSP), PHP Hypertext Pre-processor, XML/XLS/XSLT
 **RDBMS** | MS SQL Server, MySQL, Oracle, Oracle Lite, MS Access
 **Operating Systems:** | MS Windows, Linux
 **Programming technologies:** | J2SE, Java Beans, WinAPI, .NET, ActiveX, COM
-**RAD:** | Eclipse, NetBeans, MS Visual Studio, IntelliJ IDEA, Borland Delphi, Borland CBuilder
+**RAD:** | 1C Interprise, Eclipse, NetBeans, MS Visual Studio, IntelliJ IDEA, Borland Delphi, Borland CBuilder
 **Modeling Methodology:** | UML
 **Modeling Tools:** | Rational Rose, Visio, Enterprise Architect, BPWin, ErWin
 **Scripting Languages:** | JavaScript, Bash
@@ -27,21 +27,21 @@ Skills | Summary
 **JSC “Grodno Azot”** | *Highly automated petrochemical company with customers all around the globe*
 ------------ | -------------
 08.2014 - current | Software Engineer
-**Responsibilities:** | Software Development; Postproduction Software Development; IT Support and maintenance of different production facilities (Uhde Inventa Fischer, AQUAFIL Engineering, Trützschler); CCTV maintenance
-**Technology used:** | **Programming Languages** – Java, LAD, FBD, STL; **RDBMs:** Oracle, MS SQL Server, MySQL; **SCADAs** - Wonderware InTouch, Simatic WinCC,  DeltaV; **PLCs** – Siemens, Omron, Mitsubishi, Owen.
-**Achievements:** |  Successful accomplishment of two modernization projects (hi-level visualization using InTouch) for water cooling towers. 
+Responsibilities: | Software Development; Postproduction Software Development; IT Support and maintenance of different production facilities (Uhde Inventa Fischer, AQUAFIL Engineering, Trützschler); CCTV maintenance
+Technology used: | **Programming Languages** – Java, LAD, FBD, STL, 1C:Enterprise platform language; **RDBMs:** Oracle, MS SQL Server, MySQL; **SCADAs** - Wonderware InTouch, Simatic WinCC,  DeltaV; **PLCs** – Siemens, Omron, Mitsubishi, Owen.
+Achievements: |  Successful accomplishment of two modernization projects (hi-level visualization using InTouch) for water cooling towers. 
 
 **Grodno State Polytechnic College** | - 
 ------------ | -------------
 01.2014-07.2014 | Software Engineer
-**Responsibilities:** | Website maintenance; IT Support; Computer network administration
-**Technology used:** | PHP, MySQL, Java Script.
+Responsibilities: | Website maintenance; IT Support; Computer network administration
+Technology used: | PHP, MySQL, Java Script.
 
 **Belarusian State University of Computer Science and Radioelectronic Engineering** | - 
 ------------ | -------------
 09.2008 – 10.2013 | Teacher
-**Responsibilities:** | Practical teaching of about 150 students per term; Scientific supervision of about 100 Course and 5 Diploma Projects a year; Teaching (foreign) students in English
-**Technology used:** | OOP, J2SE, JSP, Win32API, .NET, SQL-oriented RDBMS 
+Responsibilities: | Practical teaching of about 150 students per term; Scientific supervision of about 100 Course and 5 Diploma Projects a year; Teaching (foreign) students in English
+Technology used: | OOP, J2SE, JSP, Win32API, .NET, SQL-oriented RDBMS 
 
 ### Training and Development
 
