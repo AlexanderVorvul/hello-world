@@ -22,4 +22,4 @@ Design: | Corel Draw, Macromedia DreamWeaver, Adobe Photoshop
 
 ### Career History
 **JSC “Grodno Azot”** *Highly automated petrochemical company with customers all around the globe*
-08.2014 - current
+ 08.2014 - current
