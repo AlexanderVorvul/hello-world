@@ -8,17 +8,17 @@ Skills | Summary
 **Internet technologies:** | HTML, Java Applets, Java Server Faces (JSF), Java Server Pages (JSP), PHP Hypertext Pre-processor, XML/XLS/XSLT
 **RDBMS** | MS SQL Server, MySQL, Oracle, Oracle Lite, MS Access
 **Operating Systems:** | MS Windows, Linux
-Programming technologies: | J2SE, Java Beans, WinAPI, .NET, ActiveX, COM
-RAD: | Eclipse, NetBeans, MS Visual Studio, IntelliJ IDEA, Borland Delphi, Borland CBuilder
-Modeling Methodology: | UML
-Modeling Tools: | Rational Rose, Visio, Enterprise Architect, BPWin, ErWin
-Scripting Languages: | JavaScript, Bash
-CAD: | AutoCAD
-Installation Packages: | RPM, Windows Installer
-Automated Testing: | JUnit
-Building Tools: | Maven, Make
-Defect Tracking: | JIRA, Bugzilla
-Design: | Corel Draw, Macromedia DreamWeaver, Adobe Photoshop
+**Programming technologies:** | J2SE, Java Beans, WinAPI, .NET, ActiveX, COM
+**RAD:** | Eclipse, NetBeans, MS Visual Studio, IntelliJ IDEA, Borland Delphi, Borland CBuilder
+**Modeling Methodology:** | UML
+**Modeling Tools:** | Rational Rose, Visio, Enterprise Architect, BPWin, ErWin
+**Scripting Languages:** | JavaScript, Bash
+**CAD:** | AutoCAD
+**Installation Packages:** | RPM, Windows Installer
+**Automated Testing:** | JUnit
+**Building Tools:** | Maven, Make
+**Defect Tracking:** | JIRA, Bugzilla
+**Design:** | Corel Draw, Macromedia DreamWeaver, Adobe Photoshop
 
 ### Career History
 **JSC “Grodno Azot”** | *Highly automated petrochemical company with customers all around the globe*
@@ -40,8 +40,12 @@ Technology used: | PHP, MySQL, Java Script.
 Responsibilities: | Practical teaching of about 150 students per term; Scientific supervision of about 100 Course and 5 Diploma Projects a year; Teaching (foreign) students in English
 Technology used: | OOP, J2SE, JSP, Win32API, .NET, SQL-oriented RDBMS 
 
+###Training and Development
+
+
+
 ### Education
-**Belarusian State University of Computer Science and Radioelectronic Engineering** | - 
+
 ------------ | -------------
 2010-2013: | *Researcher’s Degree in Computer Science, Belarusian State University of Computer Science and Radioelectronic Engineering*
 2008-2009: | *Master’s Degree in Computer Science, Belarusian State University of Computer Science and Radioelectronic Engineering*
