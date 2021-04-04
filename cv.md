@@ -33,3 +33,9 @@ Achievements: |  Successful accomplishment of two modernization projects (hi-lev
 01.2014-07.2014 | Software Engineer
 Rensponsabilities: | Website maintenance; IT Support; Computer network administration
 Technology used: | PHP, MySQL, Java Script.
+
+**Belarusian State University of Computer Science and Radioelectronic Engineering** | - 
+------------ | -------------
+09.2008 – 10.2013 | Teacher
+Rensponsabilities: | Practical teaching of about 150 students per term; Scientific supervision of about 100 Course and 5 Diploma Projects a year; Teaching (foreign) students in English
+Technology used: | OOP, J2SE, JSP, Win32API, .NET, SQL-oriented RDBMS 
