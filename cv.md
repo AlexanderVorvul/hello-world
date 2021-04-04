@@ -21,5 +21,9 @@ Defect Tracking: | JIRA, Bugzilla
 Design: | Corel Draw, Macromedia DreamWeaver, Adobe Photoshop
 
 ### Career History
-**JSC “Grodno Azot”** *Highly automated petrochemical company with customers all around the globe*
-  08.2014 - current
+**JSC “Grodno Azot”** | *Highly automated petrochemical company with customers all around the globe*
+------------ | -------------
+08.2014 - current | 
+Software Engineer | * Software Development * Postproduction Software Development * IT Support and maintenance of different production facilities (Uhde Inventa Fischer, AQUAFIL Engineering, Trützschler) * CCTV maintenance
+
+
