@@ -1,5 +1,5 @@
-### Alexander Vorvul
-#### Software Engineer
+## Alexander Vorvul
+### Software Engineer
 E-mail: alexander.vorvul@gmail.com 
 Analytical mind, I am able to work wise and hard. Ready to work in a team and individually.
 Skills | Summary
@@ -20,6 +20,6 @@ Building Tools: | Maven, Make
 Defect Tracking: | JIRA, Bugzilla
 Design: | Corel Draw, Macromedia DreamWeaver, Adobe Photoshop
 
-#### Career History
+### Career History
 **JSC “Grodno Azot”** *Highly automated petrochemical company with customers all around the globe*
 
