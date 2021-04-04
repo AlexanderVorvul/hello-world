@@ -26,4 +26,4 @@ Design: | Corel Draw, Macromedia DreamWeaver, Adobe Photoshop
 08.2014 - current | Software Engineer
 Rensponsabilities: | Software Development, Postproduction Software Development, IT Support and maintenance of different production facilities (Uhde Inventa Fischer, AQUAFIL Engineering, Trützschler), CCTV maintenance
 Technology used: | **Programming Languages** – Java, LAD, FBD, STL; **RDBMs:** Oracle, MS SQL Server, MySQL; **SCADAs** - Wonderware InTouch, Simatic WinCC,  DeltaV; **PLCs** – Siemens, Omron, Mitsubishi, Owen.
-Achievement: | 
+Achievements: |  Successful accomplishment of couple modernization projects (hi-level visualization using InTouch) for water cooling towers. 
