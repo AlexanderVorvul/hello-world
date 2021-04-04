@@ -40,12 +40,17 @@ Technology used: | PHP, MySQL, Java Script.
 Responsibilities: | Practical teaching of about 150 students per term; Scientific supervision of about 100 Course and 5 Diploma Projects a year; Teaching (foreign) students in English
 Technology used: | OOP, J2SE, JSP, Win32API, .NET, SQL-oriented RDBMS 
 
-###Training and Development
+### Training and Development
 
-
+Year | Degree
+------------ | -------------
+November 2011: | *Business Analysis training, Hi-Tech Park Belarus*
+September 2011: | *JIRA Training, Hi-Tech Park Belarus*
+March 2011: | *Agile Project Management (SCRUM), Hi-Tech Park Belarus*
+Spring 2010: | *EPAM Java Training, EPAM Systems*
 
 ### Education
-
+Year | Degree
 ------------ | -------------
 2010-2013: | *Researcher’s Degree in Computer Science, Belarusian State University of Computer Science and Radioelectronic Engineering*
 2008-2009: | *Master’s Degree in Computer Science, Belarusian State University of Computer Science and Radioelectronic Engineering*
