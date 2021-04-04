@@ -39,3 +39,13 @@ Technology used: | PHP, MySQL, Java Script.
 09.2008 – 10.2013 | Teacher
 Rensponsabilities: | Practical teaching of about 150 students per term; Scientific supervision of about 100 Course and 5 Diploma Projects a year; Teaching (foreign) students in English
 Technology used: | OOP, J2SE, JSP, Win32API, .NET, SQL-oriented RDBMS 
+
+### Education
+**Belarusian State University of Computer Science and Radioelectronic Engineering** | - 
+------------ | -------------
+2010-2013: | *Researcher’s Degree in Computer Science, Belarusian State University of Computer Science and Radioelectronic Engineering*
+2008-2009: | *Master’s Degree in Computer Science, Belarusian State University of Computer Science and Radioelectronic Engineering*
+2005-2008: | *First Class Degree with Honor in Computer Science, Belarusian State University of Computer Science and Radioelectronic Engineering*
+
+### Interests
+Linguistics, cars, IT
