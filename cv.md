@@ -24,6 +24,12 @@ Design: | Corel Draw, Macromedia DreamWeaver, Adobe Photoshop
 **JSC “Grodno Azot”** | *Highly automated petrochemical company with customers all around the globe*
 ------------ | -------------
 08.2014 - current | Software Engineer
-Rensponsabilities: | Software Development, Postproduction Software Development, IT Support and maintenance of different production facilities (Uhde Inventa Fischer, AQUAFIL Engineering, Trützschler), CCTV maintenance
+Rensponsabilities: | Software Development; Postproduction Software Development; IT Support and maintenance of different production facilities (Uhde Inventa Fischer, AQUAFIL Engineering, Trützschler); CCTV maintenance
 Technology used: | **Programming Languages** – Java, LAD, FBD, STL; **RDBMs:** Oracle, MS SQL Server, MySQL; **SCADAs** - Wonderware InTouch, Simatic WinCC,  DeltaV; **PLCs** – Siemens, Omron, Mitsubishi, Owen.
-Achievements: |  Successful accomplishment of couple modernization projects (hi-level visualization using InTouch) for water cooling towers. 
+Achievements: |  Successful accomplishment of two modernization projects (hi-level visualization using InTouch) for water cooling towers. 
+
+Grodno State Polytechnic College | 
+------------ | -------------
+01.2014-07.2014 | Software Engineer
+Rensponsabilities: | Website maintenance; IT Support; Computer network administration
+Technology used: | PHP, MySQL, Java Script.
