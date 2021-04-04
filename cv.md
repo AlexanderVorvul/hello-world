@@ -24,21 +24,21 @@ Skills | Summary
 **JSC “Grodno Azot”** | *Highly automated petrochemical company with customers all around the globe*
 ------------ | -------------
 08.2014 - current | Software Engineer
-Responsibilities: | Software Development; Postproduction Software Development; IT Support and maintenance of different production facilities (Uhde Inventa Fischer, AQUAFIL Engineering, Trützschler); CCTV maintenance
-Technology used: | **Programming Languages** – Java, LAD, FBD, STL; **RDBMs:** Oracle, MS SQL Server, MySQL; **SCADAs** - Wonderware InTouch, Simatic WinCC,  DeltaV; **PLCs** – Siemens, Omron, Mitsubishi, Owen.
-Achievements: |  Successful accomplishment of two modernization projects (hi-level visualization using InTouch) for water cooling towers. 
+**Responsibilities:** | Software Development; Postproduction Software Development; IT Support and maintenance of different production facilities (Uhde Inventa Fischer, AQUAFIL Engineering, Trützschler); CCTV maintenance
+**Technology used:** | **Programming Languages** – Java, LAD, FBD, STL; **RDBMs:** Oracle, MS SQL Server, MySQL; **SCADAs** - Wonderware InTouch, Simatic WinCC,  DeltaV; **PLCs** – Siemens, Omron, Mitsubishi, Owen.
+**Achievements:** |  Successful accomplishment of two modernization projects (hi-level visualization using InTouch) for water cooling towers. 
 
 **Grodno State Polytechnic College** | - 
 ------------ | -------------
 01.2014-07.2014 | Software Engineer
-Responsibilities: | Website maintenance; IT Support; Computer network administration
-Technology used: | PHP, MySQL, Java Script.
+**Responsibilities:** | Website maintenance; IT Support; Computer network administration
+**Technology used:** | PHP, MySQL, Java Script.
 
 **Belarusian State University of Computer Science and Radioelectronic Engineering** | - 
 ------------ | -------------
 09.2008 – 10.2013 | Teacher
-Responsibilities: | Practical teaching of about 150 students per term; Scientific supervision of about 100 Course and 5 Diploma Projects a year; Teaching (foreign) students in English
-Technology used: | OOP, J2SE, JSP, Win32API, .NET, SQL-oriented RDBMS 
+**Responsibilities:** | Practical teaching of about 150 students per term; Scientific supervision of about 100 Course and 5 Diploma Projects a year; Teaching (foreign) students in English
+**Technology used:** | OOP, J2SE, JSP, Win32API, .NET, SQL-oriented RDBMS 
 
 ### Training and Development
 
