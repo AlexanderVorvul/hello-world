@@ -5,7 +5,7 @@ E-mail: alexander.vorvul@gmail.com
 
 Analytical mind, I am able to work wise and hard. Ready to work in a team and individually.
 
-Skills Summary | - 
+Skills | Summary 
 ------------ | -------------
 Programming Languages: | 1C:Interprise platform language, Java, Assembler (x86), AutoLISP, C#, C/C++, LAD, FBD, STL, Object Pascal, Prolog, Visual Basic, SQL, T-SQL
 Internet technologies: | HTML, Java Applets, Java Server Faces (JSF), Java Server Pages (JSP), PHP Hypertext Pre-processor, XML/XLS/XSLT
@@ -24,14 +24,15 @@ Defect Tracking: | JIRA, Bugzilla
 Design: | Corel Draw, Macromedia DreamWeaver, Adobe Photoshop
 
 ### Career History
-**JSC “Grodno Azot”** | *Highly automated petrochemical company with customers all around the globe*
+
+**JSC "Grodno Azot"** | *Highly automated petrochemical company with customers all around the globe*
 ------------ | -------------
 08.2014 - current | Software Engineer
 Responsibilities: | Software Development; Postproduction Software Development; IT Support and maintenance of different production facilities (Uhde Inventa Fischer, AQUAFIL Engineering, Trützschler); CCTV maintenance
 Technology used: | **Programming Languages** – Java, LAD, FBD, STL, 1C:Enterprise platform language; **RDBMs:** Oracle, MS SQL Server, MySQL; **SCADAs** - Wonderware InTouch, Simatic WinCC,  DeltaV; **PLCs** – Siemens, Omron, Mitsubishi, Owen.
 Achievements: |  Successful accomplishment of two modernization projects (hi-level visualization using InTouch) for water cooling towers. 
 
-**Grodno State Polytechnic College** | - 
+**Grodno State Polytechnic College** | -
 ------------ | -------------
 01.2014-07.2014 | Software Engineer
 Responsibilities: | Website maintenance; IT Support; Computer network administration
@@ -53,6 +54,7 @@ March 2011: | *Agile Project Management (SCRUM), Hi-Tech Park Belarus*
 Spring 2010: | *EPAM Java Training, EPAM Systems*
 
 ### Education
+
 Year | Degree
 ------------ | -------------
 2010-2013: | *Researcher’s Degree in Computer Science, Belarusian State University of Computer Science and Radioelectronic Engineering*
